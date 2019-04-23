@@ -98,7 +98,7 @@ A couple examples in JavaScript: [Variable Sentences](https://github.com/janke-l
 
 ## Blocks to Python Tutor
 
-It is important to design and curate
+If typing code is still a challenge for your students and you're asking them to generate their own snippets to step through from scratch, consider using [Side-by-Side](https://blocks-to-text.github.io/side-by-side/).  This tool allows direct conversion from blocks to live Python Tutor step-throughs.
 
 
 [TOP](#isolate-the-notional-machine)
