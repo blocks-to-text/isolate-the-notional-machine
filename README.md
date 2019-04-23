@@ -61,7 +61,8 @@ Introducing these sticking points is also a perfect opportunity to introduce you
     * [Arguments, Parameters & Return Values](https://github.com/colevandersWands/function-exercises/blob/master/1-functions.md)
 * _Expressions_
     * [Stepping Through by Operator Precedence](https://github.com/janke-learning/operator-precedence)
-    * This is also exercise that can be done very well on a white board or paper [like this](./evaluate-expression.jpg)
+    * This is also exercise that can be done very well on a white board or paper like so:
+         * <img src="./evaluate-expression.jpg" width="350" height="350"></img>
 * _Concurrency vs. Sequentiality_
     * Blocks-based animation editors generally allow concurrent execution of different pieces of the program.
     * Nearly all beginner programming languages do not
