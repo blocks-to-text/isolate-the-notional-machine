@@ -34,7 +34,7 @@ Switching from blocks to text can give the impression of advancing towards fully
 
 ## The Notional Machine
 
-what does it mean to teach how the programming language works? It means to teach what is called a "notional machine" - a series of visualizations, diagrams, and vocabulary that are accurate but manageable for students; correct enough that students can use them to predict program state and can correctly translate between the diagrams & code, but not so precise that they get lost in how hardware and operating systems work. 
+what does it mean to teach how the programming language works? It means to teach what is called a "notional machine" - a series of visualizations, diagrams, refactoring techniques, and vocabulary that are accurate but manageable for students; correct enough that students can use them to predict program state and can correctly translate between the diagrams & code, but not so precise that they get lost in how hardware and operating systems work. 
 
 A very important feature of the notional machine is that it does not attempt to describe the programming language as _like_ something else.  One easy danger when teaching is to use analogies to make programming feel more familiar to students.  This is especially dangerous because programming languages & computers are not like other things people encounter in their daily lives.  Any intuitions built off of previous experience will be misleading and can make learning more difficult for students in the long run.  
 
